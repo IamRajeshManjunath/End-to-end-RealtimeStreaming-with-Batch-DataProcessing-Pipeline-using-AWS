@@ -67,9 +67,7 @@ This project provides a cost-effective and scalable real-time data pipeline usin
 
 Hope this helps!
 
-# End-to-end-RealtimeStreaming-with-Batch-DataProcessing-Pipeline-using-AWS
-# End-to-end-RealtimeStreaming-with-Batch-DataProcessing-Pipeline-using-AWS
-# End-to-end-RealtimeStreaming-with-Batch-DataProcessing-Pipeline-using-AWS
+
 # End-to-end-RealtimeStreaming-with-Batch-DataProcessing-Pipeline-using-AWS
 # End-to-end-RealtimeStreaming-with-Batch-DataProcessing-Pipeline-using-AWS
 # End-to-end-RealtimeStreaming-with-Batch-DataProcessing-Pipeline-using-AWS
